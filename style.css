@@ -2,51 +2,11 @@
 	margin: 0;
 	padding: 0;
 }
-html {
-	scroll-behavior: smooth;
-}
 .start {
 	height: 50rem;
 	background-image: url("photo_1.jpg");
 	display: grid;
 	grid-template-columns: 30% 60% 10%;
-}
-.dropdown {
-	display: none;
-	position: absolute;
-	top: 60px;
-	left: 20px;
-	background: white;
-	border: 1px solid #ddd;
-	border-radius: 6px;
-	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-	z-index: 10;
-}
-
-.dropdown.open {
-	display: block;
-}
-
-.dropdown ul {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-
-.dropdown li {
-	padding: 12px 20px;
-}
-
-.dropdown li a {
-	text-decoration: none;
-	color: #333;
-	font-size: 16px;
-	display: block;
-}
-
-.dropdown li a:hover {
-	color: #0066cc;
-	background: #f0f8ff;
 }
 .img2 {
 	width: 2rem;
@@ -54,6 +14,40 @@ html {
 	padding-top: 10px;
 	cursor: pointer;
 }
+  /* Выпадающее меню */
+    .dropdown {
+      display: none;
+      position: absolute;
+      top: 60px;
+      left: 20px;
+      background: white;
+      border-radius: 6px;
+      z-index: 10;
+    }
+
+    .dropdown.open {
+      display: block;
+    }
+
+    .dropdown ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .dropdown li {
+      padding: 12px 20px;
+    }
+
+    .dropdown li a {
+      text-decoration: none;
+      font-size: 1.5rem;
+      display: block;
+    }
+
+    .dropdown li a:hover {
+      color: #e4b46e;
+    }
 .img3 {
 	height: 40rem;
 	box-shadow: 0px 1px 36px 14px rgb(162, 115, 168);
@@ -370,6 +364,40 @@ input[type="type"] {
 		height: 2rem;
 		padding-top: 10px;
 	}
+	 /* Выпадающее меню */
+    .dropdown {
+      display: none;
+      position: absolute;
+      top: 60px;
+      left: 20px;
+      background: white;
+      border-radius: 6px;
+      z-index: 10;
+    }
+
+    .dropdown.open {
+      display: block;
+    }
+
+    .dropdown ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .dropdown li {
+      padding: 12px 20px;
+    }
+
+    .dropdown li a {
+      text-decoration: none;
+      font-size: 1rem;
+      display: block;
+    }
+
+    .dropdown li a:hover {
+      color: #e4b46e;
+    }
 	.img3 {
 		height: 25rem;
 		box-shadow: 1px 6px 12px 10px rgb(162, 115, 168);
@@ -459,7 +487,7 @@ input[type="type"] {
 			-1px 1px 1px #5912a5, 1px 1px 1px #5912a5;
 	}
 	.text3 {
-		height: 4rem;
+		height: 3rem;
 		width: 100%;
 		background-color: rgb(199, 169, 216);
 		font-size: 1.5rem;
@@ -469,7 +497,7 @@ input[type="type"] {
 		align-items: center;
 	}
 	.text4 {
-		font-size: 1rem;
+		font-size: 0.7rem;
 		font-weight: 600;
 	}
 	.text6 {

@@ -1,5 +1,5 @@
- const menuBtn = document.getElementById('menuButton');
-    const dropdown = document.getElementById('dropdownMenu');
+ const menuBtn = document.getElementById("img2");
+    const dropdown = document.getElementById("dropdownMenu");
 
     menuBtn.addEventListener('click', function(event) {
       event.stopPropagation();

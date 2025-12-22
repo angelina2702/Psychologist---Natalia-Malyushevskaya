@@ -416,7 +416,7 @@ input[type="type"] {
 		grid-template-rows: 1fr 1fr 1fr;
 	}
 	.colum {
-		padding-left: 15px;
+		padding-left: 10px;
 	}
 	.abuotImg {
 		width: 100%;
@@ -666,7 +666,7 @@ input[type="type"] {
 		align-items: center;
 	}
 	.abuot40 {
-		padding-right: 30px;
+		padding-right: 20px;
 		display: flex;
 		justify-content: center;
 		align-items: center;

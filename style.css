@@ -469,7 +469,7 @@ input[type="type"] {
 		width: 3rem;
 	}
 	.text1 {
-		font-size: 1.2rem;
+		font-size: 1.5rem;
 		padding-top: 30rem;
 		padding-left: 30px;
 		font-weight: 900;
@@ -478,7 +478,7 @@ input[type="type"] {
 			-1px 1px 1px #5912a5, 1px 1px 1px #5912a5;
 	}
 	.text2 {
-		font-size: 1.2rem;
+		font-size: 1.5rem;
 		font-weight: 900;
 		padding-left: 30px;
 		color: rgb(100, 93, 104);
@@ -503,7 +503,7 @@ input[type="type"] {
 		height: 3rem;
 		width: 100%;
 		background-color: rgb(200, 157, 224);
-		font-size: 0.6rem;
+		font-size: 0.7rem;
 		font-weight: 700;
 		display: flex;
 		justify-content: center;
@@ -600,7 +600,7 @@ input[type="type"] {
 	}
 	.SignUp {
 		width: 100%;
-		height: 590px;
+		height: 35rem;
 		background-color: rgb(200, 157, 224);
 		display: flex;
 		flex-direction: column;
@@ -608,7 +608,7 @@ input[type="type"] {
 		align-items: center;
 	}
 	form {
-		width: 18rem;
+		width: 20rem;
 		height: 30rem;
 		background-color: rgb(211, 206, 206);
 		display: flex;
@@ -618,6 +618,7 @@ input[type="type"] {
 		font-size: 1rem;
 		display: flex;
 		flex-direction: row;
+		padding-left: 10px;
 	}
 	#name {
 		width: 13.5rem;
@@ -642,16 +643,14 @@ input[type="type"] {
 		background-color: rgba(165, 150, 173, 0.733);
 		color: rgba(0, 0, 0, 0.747);
 	}
-	.f {
-		padding-left: 10px;
-	}
 	.submit {
 		width: 15rem;
 		height: 5rem;
-		font-size: 20px;
+		font-size: 1rem;
 		background-color: rgb(209, 186, 221);
 		border: 0px;
 		outline: none;
+		border-radius: 5px;
 	}
 	.abuot4 {
 		padding-right: 100px;

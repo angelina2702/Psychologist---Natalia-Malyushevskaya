@@ -429,19 +429,11 @@ h1 {
 	}
 
 	.dots {
-		display: flex;
-		justify-content: center;
-		gap: 0.5rem;
-		margin-top: 1.25rem;
+		display: none;
 	}
 
 	.dot {
-		width: 10px;
-		height: 10px;
-		border-radius: 50%;
-		background: #ccc;
-		cursor: pointer;
-		transition: 0.3s;
+		display: none;
 	}
 
 	.dot.active {

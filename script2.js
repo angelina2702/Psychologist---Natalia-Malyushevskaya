@@ -152,3 +152,43 @@ if (document.attachEvent) {
 		dropdown.classList.remove('open');
 	  }
 	});
+
+	var startX = 0;
+    var isDragging = false;
+
+    function handleTouchStart(e) {
+      if (e.touches.length === 1) {
+        isDragging = true;
+        startX = e.touches[0].clientX;
+      }
+    }
+
+    function handleTouchMove(e) {
+      if (!isDragging) return;
+      e.preventDefault(); // остановить прокрутку страницы
+    }
+
+    function handleTouchEnd(e) {
+      if (!isDragging) return;
+      isDragging = false;
+
+      if (e.changedTouches.length === 1) {
+        var endX = e.changedTouches[0].clientX;
+        var diff = startX - endX;
+
+        if (Math.abs(diff) > 50) {
+          if (diff > 0) {
+            nextSlide();
+          } else {
+            prevSlide();
+          }
+        }
+      }
+    }
+
+    // Привязка touch-событий
+    if (carousel.addEventListener) {
+      carousel.addEventListener("touchstart", handleTouchStart, { passive: false });
+      carousel.addEventListener("touchmove", handleTouchMove, { passive: false });
+      carousel.addEventListener("touchend", handleTouchEnd, { passive: true });
+    }

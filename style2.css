@@ -31,6 +31,7 @@
 	width: 2rem;
 	height: 2rem;
 	padding-top: 10px;
+	cursor: pointer;
 }
  /* Выпадающее меню */
     .dropdown {
@@ -348,7 +349,7 @@ h1 {
 		background-color: rgba(235, 208, 208, 1);
 	}
 	.text {
-		font-size: 1rem;
+		font-size: 0.7rem;
 		padding-left: 10px;
 	}
 	.container {
@@ -385,7 +386,7 @@ h1 {
 
 	.slide img {
 		max-width: 100%;
-		max-height: 5rem;
+		max-height: 4rem;
 		object-fit: contain;
 		border-radius: 8px;
 		cursor: zoom-in;

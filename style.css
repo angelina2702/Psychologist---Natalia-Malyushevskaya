@@ -445,11 +445,7 @@ input[type="type"] {
 	.img {
 		height: 2rem;
 		border-radius: 100%;
-		transition: 1s;
 		padding-top: 10px;
-	}
-	.img:hover {
-		height: 3rem;
 	}
 	.picture {
 		width: 2rem;

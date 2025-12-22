@@ -416,7 +416,7 @@ input[type="type"] {
 		grid-template-rows: 1fr 1fr 1fr;
 	}
 	.colum {
-		padding-left: 60px;
+		padding-left: 30px;
 	}
 	.abuotImg {
 		width: 100%;
@@ -510,7 +510,7 @@ input[type="type"] {
 		height: 3rem;
 		width: 100%;
 		background-color: rgb(200, 157, 224);
-		font-size: 1rem;
+		font-size: 1.2rem;
 		font-weight: 700;
 		display: flex;
 		justify-content: center;
@@ -661,6 +661,12 @@ input[type="type"] {
 	}
 	.abuot4 {
 		padding-right: 100px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.abuot40 {
+		padding-right: 60px;
 		display: flex;
 		justify-content: center;
 		align-items: center;

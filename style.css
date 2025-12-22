@@ -409,7 +409,7 @@ input[type="type"] {
 	}
 	.abuotImg4 {
 		width: 100%;
-		height: 10rem;
+		height: 6rem;
 		background-color: rgb(199, 169, 216);
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
@@ -486,10 +486,10 @@ input[type="type"] {
 			-1px 1px 1px #5912a5, 1px 1px 1px #5912a5;
 	}
 	.text3 {
-		height: 4rem;
+		height: 3rem;
 		width: 100%;
 		background-color: rgb(199, 169, 216);
-		font-size: 0.5rem;
+		font-size: 0.7rem;
 		font-weight: 700;
 		display: flex;
 		justify-content: center;
@@ -500,7 +500,7 @@ input[type="type"] {
 		font-weight: 600;
 	}
 	.text6 {
-		height: 3rem;
+		height: 0.6rem;
 		width: 100%;
 		background-color: rgb(200, 157, 224);
 		font-size: 2rem;
@@ -522,7 +522,7 @@ input[type="type"] {
 	}
 	.abuot {
 		width: 100%;
-		height: 30rem;
+		height: 20rem;
 		background-color: rgba(199, 169, 216, 0.747);
 		display: flex;
 		justify-content: center;

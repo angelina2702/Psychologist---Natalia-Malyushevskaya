@@ -2,52 +2,6 @@
 	margin: 0;
 	padding: 0;
 }
-html {
-	scroll-behavior: smooth;
-}
-.start {
-	height: 50rem;
-	background-color: rgba(235, 208, 208, 1);
-	display: grid;
-	grid-template-columns: 30% 60% 10%;
-}
-.dropdown {
-	display: none;
-	position: absolute;
-	top: 60px;
-	left: 20px;
-	background: white;
-	border: 1px solid #ddd;
-	border-radius: 6px;
-	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-	z-index: 10;
-}
-
-.dropdown.open {
-	display: block;
-}
-
-.dropdown ul {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-
-.dropdown li {
-	padding: 12px 20px;
-}
-
-.dropdown li a {
-	text-decoration: none;
-	color: #333;
-	font-size: 16px;
-	display: block;
-}
-
-.dropdown li a:hover {
-	color: #0066cc;
-	background: #f0f8ff;
-}
 .start {
 	height: 7rem;
 	background-color: rgba(235, 208, 208, 1);
@@ -78,6 +32,41 @@ html {
 	height: 2rem;
 	padding-top: 10px;
 }
+ /* Выпадающее меню */
+    .dropdown {
+      display: none;
+      position: absolute;
+      top: 60px;
+      left: 20px;
+      background: white;
+      border-radius: 6px;
+      z-index: 10;
+    }
+
+    .dropdown.open {
+      display: block;
+    }
+
+    .dropdown ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .dropdown li {
+      padding: 12px 20px;
+    }
+
+    .dropdown li a {
+      text-decoration: none;
+      font-size: 1.5rem;
+      display: block;
+	  color: black;
+    }
+
+    .dropdown li a:hover {
+      color: #e4b46e;
+    }
 .name3 {
 	width: 200px;
 	height: 70px;
@@ -111,11 +100,14 @@ html {
 }
 .p {
 	width: 100%;
-	height: 100rem;
+	height: 108rem;
 	background-color: rgba(235, 208, 208, 1);
 }
+.text{
+	font-size: 1rem;
+}
 .p2 {
-	font-size: 1.8rem;
+	font-size: 1rem;
 	padding-left: 10px;
 	background-color: rgba(235, 208, 208, 1);
 }
@@ -283,6 +275,46 @@ h1 {
 	.picture:hover {
 		width: 3rem;
 	}
+	.img2 {
+		width: 2rem;
+		height: 2rem;
+		padding-top: 10px;
+	}
+	 /* Выпадающее меню */
+    .dropdown {
+      display: none;
+      position: absolute;
+      top: 60px;
+      left: 20px;
+      background: white;
+      border-radius: 6px;
+      z-index: 10;
+    }
+
+    .dropdown.open {
+      display: block;
+    }
+
+    .dropdown ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .dropdown li {
+      padding: 12px 20px;
+    }
+
+    .dropdown li a {
+      text-decoration: none;
+      font-size: 1rem;
+      display: block;
+	  color: black;
+    }
+
+    .dropdown li a:hover {
+      color: #e4b46e;
+    }
 	.img {
 		height: 2rem;
 		border-radius: 100%;

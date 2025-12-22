@@ -399,7 +399,7 @@ input[type="type"] {
       color: #e4b46e;
     }
 	.img3 {
-		height: 15rem;
+		height: 10rem;
 		box-shadow: 1px 6px 12px 10px rgb(162, 115, 168);
 	}
 	.img4 {
@@ -486,7 +486,7 @@ input[type="type"] {
 			-1px 1px 1px #5912a5, 1px 1px 1px #5912a5;
 	}
 	.text3 {
-		height: 1rem;
+		height: 0.5rem;
 		width: 100%;
 		background-color: rgb(199, 169, 216);
 		font-size: 1.5rem;

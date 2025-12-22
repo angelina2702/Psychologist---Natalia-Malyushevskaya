@@ -89,7 +89,7 @@
 	align-items: center;
 }
 .img4 {
-	height: 35rem;
+	height: 30rem;
 	box-shadow: 0px 1px 36px 14px rgb(162, 115, 168);
 }
 .abouttext {
@@ -100,14 +100,14 @@
 }
 .p {
 	width: 100%;
-	height: 250rem;
+	height: 300rem;
 	background-color: rgba(235, 208, 208, 1);
 }
 .text{
 	font-size: 0.5rem;
 }
 .p2 {
-	font-size: 0.1rem;
+	font-size: 0.5rem;
 	padding-left: 10px;
 	background-color: rgba(235, 208, 208, 1);
 }

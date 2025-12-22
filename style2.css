@@ -243,10 +243,6 @@ h1 {
 		margin: 0;
 		padding: 0;
 	}
-	.r {
-		width: 100%;
-		height: 15rem;
-	}
 	.name3 {
 		width: 200px;
 		height: 70px;
@@ -362,10 +358,13 @@ h1 {
 		margin-bottom: 1.5rem;
 		color: #333;
 	}
-
+.r {
+		width: 100%;
+		height: 20rem;
+	}
 	.carousel-wrapper {
 		width: 26rem;
-		height: 9rem;
+		height: 15rem;
 		position: relative;
 		overflow: hidden;
 	}
@@ -386,38 +385,38 @@ h1 {
 
 	.slide img {
 		max-width: 100%;
-		max-height: 4rem;
+		max-height: 12rem;
 		object-fit: contain;
 		border-radius: 8px;
 		cursor: zoom-in;
 		transition: transform 0.2s;
 	}
 	.img5 {
-		padding-right: 50px;
+		padding-right: 55px;
 	}
 	.img6 {
-		padding-right: 110px;
+		padding-right: 135px;
 	}
 	.img7 {
-		padding-right: 170px;
+		padding-right: 215px;
 	}
 	.img8 {
-		padding-right: 240px;
+		padding-right: 290px;
 	}
 	.img9 {
-		padding-right: 300px;
+		padding-right: 370px;
 	}
 	.img10 {
-		padding-right: 360px;
+		padding-right: 460px;
 	}
 	.img11 {
-		padding-right: 425px;
+		padding-right: 525px;
 	}
 	.img12 {
-		padding-right: 490px;
+		padding-right: 590px;
 	}
 	.img13 {
-		padding-right: 550px;
+		padding-right: 650px;
 	}
 
 	.slide img:hover {

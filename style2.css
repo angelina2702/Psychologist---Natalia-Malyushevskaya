@@ -89,7 +89,7 @@
 	align-items: center;
 }
 .img4 {
-	height: 30rem;
+	height: 50rem;
 	box-shadow: 0px 1px 36px 14px rgb(162, 115, 168);
 }
 .abouttext {
@@ -100,11 +100,11 @@
 }
 .p {
 	width: 100%;
-	height: 500rem;
+	height: 108rem;
 	background-color: rgba(235, 208, 208, 1);
 }
 .text{
-	font-size: 0.5rem;	
+	font-size: 1.8rem;	
 	padding-left: 10px;
 }
 .r {
@@ -333,7 +333,7 @@ h1 {
 		align-items: center;
 	}
 	.img4 {
-		height: 20rem;
+		height: 17rem;
 		box-shadow: 0px 1px 36px 14px rgb(162, 115, 168);
 	}
 	.abouttext {
@@ -344,11 +344,11 @@ h1 {
 	}
 	.p {
 		width: 100%;
-		height: 80rem;
+		height: 100rem;
 		background-color: rgba(235, 208, 208, 1);
 	}
-	.p2 {
-		font-size: 1.2rem;
+	.text {
+		font-size: 0.5rem;
 		padding-left: 10px;
 	}
 	.container {
@@ -429,8 +429,8 @@ h1 {
 		transform: translateY(-50%);
 		background: white;
 		border: none;
-		width: 50px;
-		height: 50px;
+		width: 25px;
+		height: 25px;
 		border-radius: 50%;
 		font-size: 2.3rem;
 		cursor: pointer;

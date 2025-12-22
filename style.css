@@ -399,9 +399,8 @@ input[type="type"] {
       color: #e4b46e;
     }
 	.img3 {
-		height: 25rem;
+		height: 15rem;
 		box-shadow: 1px 6px 12px 10px rgb(162, 115, 168);
-		z-index: 99;
 	}
 	.img4 {
 		height: 6rem;
@@ -487,7 +486,7 @@ input[type="type"] {
 			-1px 1px 1px #5912a5, 1px 1px 1px #5912a5;
 	}
 	.text3 {
-		height: 3rem;
+		height: 1rem;
 		width: 100%;
 		background-color: rgb(199, 169, 216);
 		font-size: 1.5rem;
@@ -497,7 +496,7 @@ input[type="type"] {
 		align-items: center;
 	}
 	.text4 {
-		font-size: 0.7rem;
+		font-size: 0.5rem;
 		font-weight: 600;
 	}
 	.text6 {

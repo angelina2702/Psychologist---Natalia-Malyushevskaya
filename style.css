@@ -353,7 +353,7 @@ input[type="type"] {
 		padding: 0;
 	}
 	.start {
-		height: 54rem;
+		height: 44rem;
 		background-image: url("photo_1,2.jpg");
 		display: grid;
 		background-size: contain;

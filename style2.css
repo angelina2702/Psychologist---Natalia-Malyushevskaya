@@ -313,6 +313,7 @@ h1 {
     }
 	.img {
 		height: 2rem;
+		border-radius: none;
 		transition: 1s;
 		padding-top: 10px;
 	}

@@ -364,7 +364,7 @@ input[type="type"] {
 		padding: 0;
 	}
 	.start {
-		height: none;
+		height: 50rem;
 		width: 100%;
 		background-image: url("photo_1,2.jpg");
 		display: grid;

@@ -318,7 +318,7 @@ h1 {
 		padding-top: 10px;
 	}
 	.img:hover {
-		height: 3rem;
+		display: none;
 	}
 	.infa {
 		width: 100%;

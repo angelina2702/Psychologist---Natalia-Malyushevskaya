@@ -363,7 +363,7 @@ input[type="type"] {
 		padding: 0;
 	}
 	.start {
-		height: 24rem;
+		height: 34rem;
 		background-image: url("photo_1.jpg");
 		display: grid;
 		background-size: contain;
@@ -426,7 +426,7 @@ input[type="type"] {
 		grid-template-rows: 1fr 1fr 1fr;
 	}
 	.colum {
-		padding-left: 28px;
+		padding-left: 24px;
 	}
 	.abuotImg {
 		width: 100%;

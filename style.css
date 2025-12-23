@@ -365,7 +365,7 @@ input[type="type"] {
 	}
 	.start {
 		height: none;
-		width: none;
+		width: 100%;
 		background-image: url("photo_1,2.jpg");
 		display: grid;
 		background-size: contain;

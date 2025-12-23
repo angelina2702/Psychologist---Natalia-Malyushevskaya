@@ -259,7 +259,7 @@ h1 {
 		height: 4rem;
 		background-color: rgba(235, 208, 208, 1);
 		display: grid;
-		grid-template-columns: 26% 61% 14%;
+		grid-template-columns: 30% 60% 10%;
 	}
 	.picture {
 		width: 2rem;

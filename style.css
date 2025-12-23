@@ -357,7 +357,7 @@ input[type="type"] {
 		height: 54rem;
 		background-image: url("photo_1,2.jpg");
 		display: grid;
-		grid-template-columns: 26% 61% 14%;
+		grid-template-columns: 30% 60% 10%;
 	}
 	.img2 {
 		width: 2rem;

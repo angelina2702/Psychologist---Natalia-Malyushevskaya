@@ -6,6 +6,7 @@
 	height: 50rem;
 	background-image: url("photo_1.jpg");
 	display: grid;
+	background-repeat: no-repeat;
 	grid-template-columns: 30% 60% 10%;
 }
 .img2 {
@@ -363,10 +364,12 @@ input[type="type"] {
 		padding: 0;
 	}
 	.start {
-		height: 34rem;
+		height: none;
+		width: none;
 		background-image: url("photo_1.jpg");
 		display: grid;
 		background-size: contain;
+		background-repeat: no-repeat;
 		grid-template-columns: 30% 60% 10%;
 	}
 	.img2 {
@@ -426,7 +429,7 @@ input[type="type"] {
 		grid-template-rows: 1fr 1fr 1fr;
 	}
 	.colum {
-		padding-left: 24px;
+		padding-left: 20px;
 	}
 	.abuotImg {
 		width: 100%;
@@ -481,7 +484,7 @@ input[type="type"] {
 	}
 	.text1 {
 		font-size: 1.5rem;
-		padding-top: 30rem;
+		padding-top: 17rem;
 		padding-left: 30px;
 		font-weight: 900;
 		color: rgb(100, 93, 104);

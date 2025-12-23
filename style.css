@@ -356,6 +356,7 @@ input[type="type"] {
 		height: 54rem;
 		background-image: url("photo_1,2.jpg");
 		display: grid;
+		background-size: contain;
 		grid-template-columns: 30% 60% 10%;
 	}
 	.img2 {

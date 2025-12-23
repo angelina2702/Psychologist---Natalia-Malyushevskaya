@@ -364,11 +364,10 @@ input[type="type"] {
 		padding: 0;
 	}
 	.start {
-	
-		width: 100%;
+		height: 50rem;
 		background-image: url("photo_1,2.jpg");
 		display: grid;
-		background-size: contain;
+		background-size: cover;
 		background-repeat: no-repeat;
 		grid-template-columns: 30% 60% 10%;
 	}

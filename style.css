@@ -364,7 +364,7 @@ input[type="type"] {
 		padding: 0;
 	}
 	.start {
-		height: 50rem;
+		height: 55rem;
 		width: 100%;
 		background-image: url("photo_1,2.jpg");
 		display: grid;
@@ -484,7 +484,7 @@ input[type="type"] {
 	}
 	.text1 {
 		font-size: 1.5rem;
-		padding-top: 17rem;
+		padding-top: 28rem;
 		padding-left: 30px;
 		font-weight: 900;
 		color: rgb(100, 93, 104);

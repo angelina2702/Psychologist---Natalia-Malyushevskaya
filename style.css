@@ -364,8 +364,9 @@ input[type="type"] {
 		padding: 0;
 	}
 	.start {
-		height: 41.1rem;
-		background-image: url("photo_1.jpg");
+	
+		width: 100%;
+		background-image: url("photo_1,2.jpg");
 		display: grid;
 		background-size: contain;
 		background-repeat: no-repeat;

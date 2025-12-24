@@ -363,6 +363,9 @@ input[type="type"] {
 		margin: 0;
 		padding: 0;
 	}
+	body{
+		overflow-x: hidden;
+	}
 	.start {
 		height: 50rem;
 		background-image: url("photo_1,2.jpg");

@@ -430,14 +430,17 @@ input[type="type"] {
 		width: 100%;
 		height: 7rem;
 		background-color: rgb(199, 169, 216);
-		display: grid;
-		grid-template-columns: 1fr 1fr 1fr;
-		grid-template-rows: 1fr 1fr 1fr;
-		overflow: hidden;
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;		
 	}
 	.colum {
-		padding-left: 20px;
-		padding-top: 11px;
+		display: flex; 
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
 	}
 	.abuotImg {
 		width: 100%;
@@ -461,7 +464,6 @@ input[type="type"] {
 		font-size: 0.5rem;
 		font-weight: 600;
 		text-align: center;
-		padding-right: 5rem;
 	}
 	.img {
 		height: 2rem;

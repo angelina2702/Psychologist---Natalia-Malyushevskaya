@@ -63,12 +63,19 @@
 	width: 100%;
 	height: 25rem;
 	background-color: rgb(199, 169, 216);
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
-	grid-template-rows: 1fr 1fr 1fr;
+	display: flex; 
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	gap: 100px;
 }
 .colum {
-	padding-left: 60px;
+		display: flex; 
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
+		
 }
 .abuotImg {
 	width: 100%;

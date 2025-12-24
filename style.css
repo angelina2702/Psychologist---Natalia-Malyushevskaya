@@ -428,7 +428,7 @@ input[type="type"] {
 	}
 		.abuotImg4 {
 		width: 100%;
-		height: 6rem;
+		height: 7rem;
 		background-color: rgb(199, 169, 216);
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
@@ -437,6 +437,7 @@ input[type="type"] {
 	}
 	.colum {
 		padding-left: 20px;
+		padding-top: 11px;
 	}
 	.abuotImg {
 		width: 100%;

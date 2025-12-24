@@ -50,12 +50,12 @@
       color: #e4b46e;
     }
 .img3 {
-	height: 40rem;
+	height: 37rem;
 	box-shadow: 0px 1px 36px 14px rgb(162, 115, 168);
 	z-index: 99;
 }
 .img4 {
-	height: 19rem;
+	height: 13rem;
 	border-radius: 100%;
 	box-shadow: 2px 2px 16px 23px rgb(162, 115, 168);
 }
@@ -67,7 +67,7 @@
 	flex-direction: row;
 	align-items: center;
 	justify-content: center;
-	gap: 100px;
+	gap: 112px;
 }
 .colum {
 		display: flex; 
@@ -176,6 +176,7 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	text-align: center;
 }
 .abuot {
 	width: 100%;
@@ -265,7 +266,7 @@ a {
 	align-items: center;
 }
 form {
-	width: 63rem;
+	width: 52rem;
 	height: 36rem;
 	background-color: rgb(211, 206, 206);
 	box-shadow: 3px 3px 5px 5px rgba(128, 128, 128, 0.822);
@@ -280,7 +281,7 @@ form {
 	flex-direction: row;
 }
 #name {
-	width: 59rem;
+	width: 47rem;
 	height: 3rem;
 	display: block;
 	background-color: rgb(209, 186, 221);
@@ -305,7 +306,7 @@ form {
 	padding-left: 10px;
 }
 .submit {
-	width: 59rem;
+	width: 47rem;
 	height: 6rem;
 	background-color: rgb(209, 186, 221);
 	border: 0px;

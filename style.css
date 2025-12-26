@@ -109,11 +109,15 @@
 	padding-top: 28rem;
 	padding-left: 2rem;
 	font-weight: 900;
+	text-shadow: -1px 1px 1px rgb(156 181 225), 1px -1px 1px rgb(156 181 225),
+	-1px 1px 1px rgb(156 181 225), 1px 1px 1px rgb(156 181 225);
 }
 .text2 {
-	font-size: 4rem;
+	font-size: 3rem;
 	font-weight: 900;
 	padding-left: 30px;
+	text-shadow: -1px 1px 1px rgb(156 181 225), 1px -1px 1px rgb(156 181 225),
+	-1px 1px 1px rgb(156 181 225), 1px 1px 1px rgb(156 181 225);
 }
 .text3 {
 	height: 7rem;

@@ -47,18 +47,18 @@
 }
 .img3 {
 	height: 37rem;
-	box-shadow: 0px 1px 36px 14px rgb(162, 115, 168);
+	box-shadow: 0px 1px 36px 14px rgb(156 181 225);
 	z-index: 99;
 }
 .img4 {
 	height: 13rem;
 	border-radius: 100%;
-	box-shadow: 2px 2px 16px 23px rgb(162, 115, 168);
+	box-shadow: 2px 2px 16px 23px #e5e0d8;
 }
 .abuotImg4 {
 	width: 100%;
 	height: 25rem;
-	background-color: rgb(199, 169, 216);
+	background-color: rgb(128 156 189);
 	display: flex; 
 	flex-direction: row;
 	align-items: center;
@@ -72,24 +72,6 @@
 	justify-content: center;
 	text-align: center;
 		
-}
-.abuotImg {
-	width: 100%;
-	height: 80px;
-	background-color: rgb(199, 169, 216);
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	align-items: center;
-	gap: 160px;
-}
-.abuot3 {
-	width: 100%;
-	height: 4rem;
-	background-color: rgb(199, 169, 216);
-	display: flex;
-	justify-content: center;
-	align-items: center;
 }
 .text5 {
 	font-size: 2rem;
@@ -136,7 +118,7 @@
 .text3 {
 	height: 7rem;
 	width: 100%;
-	background-color: rgb(199, 169, 216);
+	background-color: rgb(169 191 216);
 	font-size: 3rem;
 	font-weight: 700;
 	display: flex;
@@ -155,7 +137,7 @@
 .text6 {
 	height: 7rem;
 	width: 100%;
-	background-color: rgb(200, 157, 224);
+	background-color: #ebe0d0;
 	font-size: 3rem;
 	font-weight: 700;
 	display: flex;
@@ -163,9 +145,9 @@
 	align-items: center;
 }
 .text7 {
-	height: 8rem;
+	height: 10rem;
 	width: 100%;
-	background-color: rgb(199, 169, 216);
+	background-color: #f5efce;
 	font-size: 2.5rem;
 	font-weight: 700;
 	display: flex;
@@ -177,7 +159,7 @@
 .abuot {
 	width: 100%;
 	height: 50rem;
-	background-color: rgba(199, 169, 216, 0.747);
+	background-color:#ede1ce;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -194,7 +176,7 @@
 	height: 50px;
 	font-size: 18px;
 	color: black;
-	background-color: rgb(162, 115, 168);
+	background-color: rgb(156 181 225);
 	border: none;
 	cursor: pointer;
 	position: relative;
@@ -244,18 +226,18 @@ a {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-color: rgb(162, 115, 168);
+	background-color: rgb(156 181 225);
 }
 .button-2:active::after {
 	background: transparent;
 }
 .button-2:active {
-	color: #a200ff;
+	color: rgb(156 181 225);
 }
 .SignUp {
 	width: 100%;
 	height: 40rem;
-	background-color: rgb(200, 157, 224);
+	background-color: rgb(161 179 211);
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -280,12 +262,12 @@ form {
 	width: 47rem;
 	height: 3rem;
 	display: block;
-	background-color: rgb(209, 186, 221);
+	background-color: #ebdac1;
 }
 .submit1 {
 	width: 10rem;
 	height: 2rem;
-	background-color: rgb(209, 186, 221);
+	background-color: #ebdac1;
 	cursor: pointer;
 	border: 2px solid rgb(78, 74, 74);
 	border-radius: 10px;
@@ -304,7 +286,7 @@ form {
 .submit {
 	width: 47rem;
 	height: 6rem;
-	background-color: rgb(209, 186, 221);
+	background-color: #ebdac1;
 	border: 0px;
 	outline: none;
 }
@@ -332,7 +314,7 @@ input[type="type"] {
 #format {
 	width: 200px;
 	padding: 10px 15px;
-	background-color: rgb(209, 186, 221);
+	background-color:#ebdac1;
 	border-radius: 5px;
 	box-sizing: border-box;
 	outline: none;
@@ -343,7 +325,7 @@ input[type="type"] {
 	width: 100%;
 	height: 4rem;
 	font-size: 2rem;
-	background-color: rgb(209, 186, 221);
+	background-color: rgb(169 191 216);
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
@@ -351,15 +333,7 @@ input[type="type"] {
 	font-weight: 600;
 }
 .text8 {
-	color: #a200ff;
-}
-.block {
-	width: 10rem;
-	height: 7rem;
-	font-size: 1.5rem;
-	display: flex;
-	flex-direction: column;
-	background-color: rgba(235, 208, 208, 1);
+	color: hwb(256deg 2.32% 51.82%);
 }
 h2 {
     font-size: 2.5rem;
@@ -444,7 +418,7 @@ h2 {
 .review{
 	width: 100%;
 	height: auto;
-	background-color:rgb(199, 169, 216);
+	background-color: rgb(172 186 201);
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -507,17 +481,17 @@ html{
 }
 .img3 {
 	height: 15rem;
-	box-shadow: 1px 6px 12px 10px rgb(162, 115, 168);
+	box-shadow: 1px 6px 12px 10px rgb(156 181 225);
 }
 .img4 {
 	height: 3rem;
 	border-radius: 100%;
-	box-shadow: 0px 1px 10px 11px rgb(162, 115, 168);
+	box-shadow: 0px 1px 10px 11px #e5e0d8;
 }
 .abuotImg4 {
 	width: 100%;
 	height: 7rem;
-	background-color: rgb(199, 169, 216);
+	background-color: rgb(128 156 189);
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
@@ -529,24 +503,6 @@ html{
 	align-items: center;
 	justify-content: center;
 	text-align: center;
-}
-.abuotImg {
-	width: 100%;
-	height: 80px;
-	background-color: rgb(199, 169, 216);
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	align-items: center;
-	gap: 160px;
-}
-.abuot3 {
-	width: 100%;
-	height: 4rem;
-	background-color: rgb(199, 169, 216);
-	display: flex;
-	justify-content: center;
-	align-items: center;
 }
 .text5 {
 	font-size: 0.5rem;
@@ -600,7 +556,7 @@ html{
 .text3 {
 	height: 2rem;
 	width: 100%;
-	background-color: rgb(199, 169, 216);
+	background-color: rgb(169 191 216);
 	font-size: 0.7rem;
 	font-weight: 700;
 	display: flex;
@@ -629,7 +585,7 @@ html{
 .text7 {
 	height: 4rem;
 	width: 100%;
-    background-color: rgb(199, 169, 216);
+    background-color: #f5efce;
 	font-size: 0.6rem;
 	font-weight: 700;
 	display: flex;
@@ -640,7 +596,7 @@ html{
 .abuot {
 	width: 100%;
 	height: 17rem;
-	background-color: rgba(199, 169, 216, 0.747);
+	background-color: #ede1ce;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -657,7 +613,7 @@ html{
 	height: 2rem;
 	font-size: 0.5rem;
 	color: black;
-	background-color: rgb(162, 115, 168);
+	background-color: rgb(156 181 225);
 	border: none;
     cursor: pointer;
 	position: relative;
@@ -707,18 +663,18 @@ a {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-color: rgb(162, 115, 168);
+	background-color:rgb(156 181 225);
 }
 .button-2:active::after {
 	background: transparent;
 }
 .button-2:active {
-	color: #a200ff;
+	color: #0044ff;
 }
 .SignUp {
 	width: 100%;
 	height: 35rem;
-	background-color: rgb(200, 157, 224);
+	background-color: rgb(161 179 211)s;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -742,12 +698,12 @@ form {
 	height: 1rem;
 	padding-left: 5px;
 	display: block;
-	background-color: rgb(209, 186, 221);
+	background-color: #ebdac1;
 }
 .submit1 {
 	width: 180px;
 	height: 35px;
-	background-color: rgb(165, 150, 173);
+	background-color: #ebdac1;
 	cursor: pointer;
 	border: 2px solid rgb(78, 74, 74);
 	border-radius: 10px;
@@ -757,14 +713,14 @@ form {
     font-size: 20px;
 }
 .submit1:hover {
-	background-color: rgba(165, 150, 173, 0.733);
+	background-color: #ebdac1d8;
     color: rgba(0, 0, 0, 0.747);
 }
 .submit {
 	width: 15rem;
 	height: 5rem;
 	font-size: 1rem;
-	background-color: rgb(209, 186, 221);
+	background-color: #ebdac1;
 	border: 0px;
 	outline: none;
 	border-radius: 5px;
@@ -795,7 +751,7 @@ input[type="type"] {
 #format {
 	width: 200px;
 	padding: 10px 15px;
-	background-color: rgb(209, 186, 221);
+	background-color:#ebdac1;
 	border-radius: 5px;
 	box-sizing: border-box;
 	outline: none;
@@ -806,7 +762,7 @@ input[type="type"] {
 	width: 100%;
 	height: 2rem;
 	font-size: 1rem;
-	background-color: rgb(209, 186, 221);
+	background-color: rgb(169 191 216);
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
@@ -814,10 +770,10 @@ input[type="type"] {
 	font-weight: 600;
 }
 .text8 {
-	color: #a200ff;
+	color: hwb(256deg 2.32% 51.82%);
 }
 h2 {
-    font-size: 2.5rem;
+    font-size: 2rem;
     text-align: center;
 }
 .reviews-section {
@@ -852,13 +808,13 @@ h2 {
     align-items: center;
 }
 .review-text {
-    font-size: 1.2rem;
+    font-size: 1rem;
     text-align: center;
     font-style: italic;
 }
 .review-author {
     font-weight: 800;
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: rgb(0, 0, 0);
     text-align: center;
 }
@@ -876,7 +832,7 @@ h2 {
 .review{
 	width: 100%;
 	height: auto;
-	background-color:rgb(199, 169, 216);
+	background-color: rgb(172 186 201);
 	display: flex;
 	flex-direction: column;
 	justify-content: center;

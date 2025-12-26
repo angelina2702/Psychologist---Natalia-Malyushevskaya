@@ -188,14 +188,14 @@ a {
 }
 .button-2::before {
 	content: "";
-	background: linear-gradient(
-		45deg,
-		hwb(256 25% 26%),
-		#628da1,
-		#e0e063,
-		#6ca59d,
-		#5912a5,
-		hwb(256 25% 26%)
+	background: linear-gradient(45deg,
+	hwb(236 2% 5%),
+	#628da1,
+	#e0e063,
+	#6ca59d,
+	#12a0a5,
+	hwb(204 9% 12%),
+	hwb(236 2% 5%)
 	);
 	position: absolute;
 	top: -2px;
@@ -543,7 +543,7 @@ html{
 	font-weight: 900;
     color: black;
 	text-shadow: -1px 1px 1px rgb(156 181 225), 1px -1px 1px rgb(156 181 225),
-	-1px 1px 1px rgb(156 181 225), 1px 1px 1pxrgb(156 181 225);
+	-1px 1px 1px rgb(156 181 225), 1px 1px 1px rgb(156 181 225);
 }
 .text2 {
 	font-size: 1.5rem;
@@ -627,12 +627,13 @@ a {
 	content: "";
     background: linear-gradient(
 	45deg,
-	hwb(256 25% 26%),
+	hwb(236 2% 5%),
 	#628da1,
 	#e0e063,
 	#6ca59d,
-	#5912a5,
-	hwb(256 25% 26%)
+	#12a0a5,
+	hwb(204 9% 12%),
+	hwb(236 2% 5%)
 );
 	position: absolute;
 	top: -2px;

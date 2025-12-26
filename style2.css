@@ -4,7 +4,7 @@
 }
 .start {
 	height: 7rem;
-	background-color: rgba(235, 208, 208, 1);
+	background-color: #ede1ce;
 	display: grid;
 	grid-template-columns: 30% 60% 10%;
 }
@@ -79,7 +79,7 @@
 .infa {
 	width: 100%;
 	height: 55rem;
-	background-color: rgba(235, 208, 208, 1);
+	background-color: #ede1ce;
 	display: grid;
 	grid-template-columns: 50% 50%;
 }
@@ -89,8 +89,8 @@
 	align-items: center;
 }
 .img4 {
-	height: 50rem;
-	box-shadow: 0px 1px 36px 14px rgb(162, 115, 168);
+	height: 45rem;
+	box-shadow: 0px 1px 36px 14px rgb(156 181 225);
 }
 .abouttext {
 	font-size: 2rem;
@@ -100,17 +100,17 @@
 }
 .p {
 	width: 100%;
-	height: 108rem;
-	background-color: rgba(235, 208, 208, 1);
+	height: 103rem;
+	background-color: #ede1ce;
 }
 .text{
-	font-size: 1.8rem;	
+	font-size: 1.59rem;	
 	padding-left: 10px;
 }
 .r {
 	width: 100%;
 	height: 36rem;
-	background-color: rgba(235, 208, 208, 1);
+	background-color: #ede1ce;
 }
 .container {
 	max-width: 1000px;
@@ -166,7 +166,7 @@ h1 {
 	border-radius: 50%;
 	font-size: 2.3rem;
 	cursor: pointer;
-	box-shadow: 0 2px 7px 6px rgb(205, 171, 216);
+	box-shadow: 0 2px 7px 6px rgb(156 181 225);
 	z-index: 10;
 	display: flex;
 	align-items: center;
@@ -201,7 +201,7 @@ h1 {
 }
 
 .dot.active {
-	background: #9c6ade;
+	background: rgb(156 181 225);
 }
 
 /* Модальное окно */
@@ -237,13 +237,13 @@ h1 {
 	background: none;
 	border: none;
 }
-@media (max-width: 1289px) {
+@media (max-width: 900px) {
 	* {
 		margin: 0;
 		padding: 0;
 	}
 	body{
-		background-color: rgba(235, 208, 208, 1);
+		background-color: #ede1ce;
 	}
 	.name3 {
 		width: 200px;
@@ -256,7 +256,7 @@ h1 {
 	}
 	.start {
 		height: 4rem;
-		background-color: rgba(235, 208, 208, 1);
+		background-color: #ede1ce;
 		display: grid;
 		grid-template-columns: 30% 60% 10%;
 	}
@@ -321,7 +321,7 @@ h1 {
 	.infa {
 		width: 100%;
 		height: 25rem;
-		background-color: rgba(235, 208, 208, 1);
+		background-color: #ede1ce;
 		display: grid;
 		grid-template-columns: 50% 50%;
 	}
@@ -332,7 +332,7 @@ h1 {
 	}
 	.img4 {
 		height: 17rem;
-		box-shadow: 0px 1px 36px 14px rgb(162, 115, 168);
+		box-shadow: 0px 1px 36px 14px rgb(156 181 225);
 	}
 	.abouttext {
 		font-size: 1rem;
@@ -343,7 +343,7 @@ h1 {
 	.p {
 		width: 100%;
 		height: 50rem;
-		background-color: rgba(235, 208, 208, 1);
+		background-color: #ede1ce;
 	}
 	.text {
 		font-size: 0.7rem;
@@ -437,7 +437,7 @@ h1 {
 	}
 
 	.dot.active {
-		background: #9c6ade;
+		background: rgb(156 181 225);
 	}
 
 	/* Модальное окно */

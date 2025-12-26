@@ -541,17 +541,17 @@ html{
 	padding-top: 20rem;
 	padding-left: 30px;
 	font-weight: 900;
-    color: rgb(100, 93, 104);
-	text-shadow: -1px 1px 1px #5912a5, 1px -1px 1px #5912a5,
-	-1px 1px 1px #5912a5, 1px 1px 1px #5912a5;
+    color: black;
+	text-shadow: -1px 1px 1px rgb(156 181 225), 1px -1px 1px rgb(156 181 225),
+	-1px 1px 1px rgb(156 181 225), 1px 1px 1pxrgb(156 181 225);
 }
 .text2 {
 	font-size: 1.5rem;
 	font-weight: 900;
 	padding-left: 30px;
-	color: rgb(100, 93, 104);
-	text-shadow: -1px 1px 1px #5912a5, 1px -1px 1px #5912a5,
-	-1px 1px 1px #5912a5, 1px 1px 1px #5912a5;
+	color: black;
+	text-shadow: -1px 1px 1px rgb(156 181 225), 1px -1px 1px rgb(156 181 225),
+	-1px 1px 1px rgb(156 181 225), 1px 1px 1px rgb(156 181 225);
 }
 .text3 {
 	height: 2rem;
@@ -575,7 +575,7 @@ html{
 .text6 {
 	height: 3rem;
 	width: 100%;
-	background-color: rgb(200, 157, 224);
+	background-color: #ebe0d0;
 	font-size: 1.2rem;
 	font-weight: 700;
 	display: flex;

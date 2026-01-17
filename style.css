@@ -151,7 +151,7 @@
 .text7 {
 	height: 10rem;
 	width: 100%;
-	background-color: #f5efce;
+	background-color: rgb(186 187 187 / 34%);
 	font-size: 2.5rem;
 	font-weight: 700;
 	display: flex;
@@ -593,7 +593,7 @@ html{
 .text7 {
 	height: 4rem;
 	width: 100%;
-    background-color: #f5efce;
+    background-color: rgb(186 187 187 / 34%);
 	font-size: 0.6rem;
 	font-weight: 700;
 	display: flex;

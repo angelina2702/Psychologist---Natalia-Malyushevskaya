@@ -200,8 +200,8 @@ body{
     flex-direction: column;
 }
 .img4 {
-	height: 3rem;
-    width: 3rem;
+	height: 5rem;
+    width: 5rem;
     object-fit: cover;
 	border-radius: 100%;
     display: block;

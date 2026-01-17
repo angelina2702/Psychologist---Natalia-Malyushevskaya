@@ -1,0 +1,152 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.start {
+	height: 7rem;
+	background-color: #ede1ce;
+	display: grid;
+	grid-template-columns: 30% 60% 10%;
+}
+.picture {
+	width: 3.5rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.picture:hover {
+	width: 55px;
+}
+.img {
+	height: 5rem;
+	transition: 1s;
+	padding-top: 10px;
+}
+.img:hover {
+	height: 85px;
+}
+.img2 {
+	width: 2rem;
+	height: 2rem;
+	padding-top: 10px;
+	cursor: pointer;
+}
+/* Выпадающее меню */
+.dropdown {
+    display: none;
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    background: white;
+    border-radius: 6px;
+    z-index: 10;
+}
+.dropdown.open {
+    display: block;
+}
+.dropdown ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.dropdown li {
+    padding: 12px 20px;
+}
+.dropdown li a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    display: block;
+    color: black;
+}
+.dropdown li a:hover {
+    color: #e4b46e;
+}
+.name3 {
+	width: 200px;
+	height: 70px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	gap: 15px;
+}
+
+
+@media (max-width: 900px) {
+* {
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #ede1ce;
+}
+.name3 {
+	width: 200px;
+	height: 70px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	gap: 15px;
+}
+.start {
+	height: 4rem;
+	background-color: #ede1ce;
+	display: grid;
+	grid-template-columns: 30% 60% 10%;
+}
+.picture {
+	width: 2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.picture:hover {
+	width: 3rem;
+}
+.img2 {
+	width: 2rem;
+	height: 2rem;
+    padding-top: 10px;
+}
+/* Выпадающее меню */
+.dropdown {
+    display: none;
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    background: white;
+    border-radius: 6px;
+    z-index: 10;
+}
+.dropdown.open {
+    display: block;
+}
+.dropdown ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.dropdown li {
+    padding: 12px 20px;
+}
+.dropdown li a {
+    text-decoration: none;
+    font-size: 1rem;
+    display: block;
+    color: black;
+}
+.dropdown li a:hover {
+    color: #e4b46e;
+}
+.img {
+	height: 2rem;
+	transition: 1s;
+    padding-top: 10px;
+}
+.img:hover {
+    display: none;
+}
+}

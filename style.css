@@ -266,12 +266,12 @@ form {
 	width: 47rem;
 	height: 3rem;
 	display: block;
-	background-color: rgb(186 187 187 / 34%);
+	background-color: #ebe0d0;
 }
 .submit1 {
 	width: 10rem;
 	height: 2rem;
-	background-color: rgb(186 187 187 / 34%);
+	background-color: #ebe0d0;
 	cursor: pointer;
 	border: 2px solid rgb(78, 74, 74);
 	border-radius: 10px;
@@ -281,7 +281,7 @@ form {
 	font-size: 20px;
 }
 .submit1:hover {
-	background-color: rgba(186, 187, 187, 0.651);
+	background-color: rgba(186, 187, 187, 0.568);
 	color: rgba(0, 0, 0, 0.747);
 }
 .f {
@@ -290,7 +290,7 @@ form {
 .submit {
 	width: 47rem;
 	height: 6rem;
-	background-color: rgb(186 187 187 / 34%);
+	background-color: #ebe0d0;
 	border: 0px;
 	outline: none;
 }
@@ -318,7 +318,7 @@ input[type="type"] {
 #format {
 	width: 200px;
 	padding: 10px 15px;
-	background-color: rgb(186 187 187 / 34%);
+	background-color: #ebe0d0;
 	border-radius: 5px;
 	box-sizing: border-box;
 	outline: none;

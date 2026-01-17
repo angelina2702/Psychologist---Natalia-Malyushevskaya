@@ -92,8 +92,8 @@
 .img4 {
 	height: 13rem;
 	border-radius: 100%;
-	filter: box-shadow(2px 2px 16px 23px #e5e0d8);
-} 
+	box-shadow: 2px 2px 16px 23px #e5e0d8;
+}
 .text {
 	font-size: 1.3rem;
 	font-weight: 500;
@@ -201,8 +201,11 @@ body{
 }
 .img4 {
 	height: 3rem;
+    width: 3rem;
+    object-fit: cover;
 	border-radius: 100%;
-	filter: box-shadow(0px 1px 10px 11px #e5e0d8);
+    display: block;
+	box-shadow: 0px 1px 10px 11px #e5e0d8;
 }
 .text {
 	font-size: 0.3rem;

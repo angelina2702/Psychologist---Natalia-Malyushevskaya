@@ -53,12 +53,12 @@
 .img4 {
 	height: 13rem;
 	border-radius: 100%;
-	box-shadow: 2px 2px 16px 23px #e5e0d8;
+	box-shadow: 2px 2px 16px 23px #9ebbbb;
 }
 .abuotImg4 {
 	width: 100%;
 	height: 25rem;
-	background-color: rgb(128 156 189);
+	background-color: rgb(186 187 187 / 34%);
 	display: flex; 
 	flex-direction: row;
 	align-items: center;
@@ -488,8 +488,8 @@ html{
 	box-shadow: 1px 6px 12px 10px rgb(156 181 225);
 }
 .img4 {
-	height: 5rem;
-    width: 5rem;
+	height: 3rem;
+    width: 3rem;
     object-fit: cover;
 	border-radius: 100%;
     display: block;

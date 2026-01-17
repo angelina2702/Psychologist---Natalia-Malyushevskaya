@@ -163,7 +163,7 @@
 .abuot {
 	width: 100%;
 	height: 50rem;
-	background-color:#ede1ce;
+	background-color:rgb(186 187 187 / 34%);
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -266,12 +266,12 @@ form {
 	width: 47rem;
 	height: 3rem;
 	display: block;
-	background-color: #ebdac1;
+	background-color: rgb(186 187 187 / 34%);
 }
 .submit1 {
 	width: 10rem;
 	height: 2rem;
-	background-color: #ebdac1;
+	background-color: rgb(186 187 187 / 34%);
 	cursor: pointer;
 	border: 2px solid rgb(78, 74, 74);
 	border-radius: 10px;
@@ -281,7 +281,7 @@ form {
 	font-size: 20px;
 }
 .submit1:hover {
-	background-color: rgba(165, 150, 173, 0.733);
+	background-color: rgba(186, 187, 187, 0.651);
 	color: rgba(0, 0, 0, 0.747);
 }
 .f {
@@ -290,7 +290,7 @@ form {
 .submit {
 	width: 47rem;
 	height: 6rem;
-	background-color: #ebdac1;
+	background-color: rgb(186 187 187 / 34%);
 	border: 0px;
 	outline: none;
 }
@@ -318,7 +318,7 @@ input[type="type"] {
 #format {
 	width: 200px;
 	padding: 10px 15px;
-	background-color:#ebdac1;
+	background-color: rgb(186 187 187 / 34%);
 	border-radius: 5px;
 	box-sizing: border-box;
 	outline: none;
@@ -604,7 +604,7 @@ html{
 .abuot {
 	width: 100%;
 	height: 17rem;
-	background-color: #ede1ce;
+	background-color: rgb(186 187 187 / 34%);
 	display: flex;
 	justify-content: center;
 	align-items: center;

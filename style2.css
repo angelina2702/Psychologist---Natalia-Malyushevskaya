@@ -2,9 +2,11 @@
 	margin: 0;
 	padding: 0;
 }
+body{
+	background-color: rgb(186 187 187 / 34%);
+}
 .start {
 	height: 7rem;
-	background-color: #ede1ce;
 	display: grid;
 	grid-template-columns: 30% 60% 10%;
 }
@@ -79,7 +81,6 @@
 .infa {
 	width: 100%;
 	height: 55rem;
-	background-color: #ede1ce;
 	display: grid;
 	grid-template-columns: 50% 50%;
 }
@@ -101,7 +102,6 @@
 .p {
 	width: 100%;
 	height: 103rem;
-	background-color: #ede1ce;
 }
 .text{
 	font-size: 1.59rem;	
@@ -110,7 +110,6 @@
 .r {
 	width: 100%;
 	height: 36rem;
-	background-color: #ede1ce;
 }
 .container {
 	max-width: 1000px;
@@ -243,7 +242,7 @@ h1 {
 		padding: 0;
 	}
 	body{
-		background-color: #ede1ce;
+		background-color: rgb(186 187 187 / 34%);
 	}
 	.name3 {
 		width: 200px;

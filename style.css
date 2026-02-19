@@ -3,8 +3,9 @@
 	padding: 0;
 }
 .tej{
-	width: auto;
-	height: auto;
+	background-size: cover;
+	background-repeat: repeat;
+	flex-grow: 1;
 }
 .start {
 	height: 50rem;
@@ -439,6 +440,11 @@ h2 {
 }
 body{
 	overflow-x: hidden;
+}
+.tej{
+	background-size: cover;
+	background-repeat: repeat;
+	flex-grow: 1;
 }
 html{
 	overflow-x: hidden;

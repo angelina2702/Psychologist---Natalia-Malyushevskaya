@@ -355,7 +355,7 @@ h2 {
     margin: 0 auto;
     overflow: hidden;
     border-radius: 20px;
-    background-image: url("for_gallery.jpg");
+    background-image: url("photo_for_gallery");
     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
     color: white;
 }
@@ -795,7 +795,7 @@ h2 {
     margin: 0 auto;
     overflow: hidden;
     border-radius: 20px;
-    background-image: url("for_gallery.jpg");
+    background-image: url("photo_for_gallery.jpg");
     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
     color: white;
 }

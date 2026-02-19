@@ -193,13 +193,11 @@ a {
 .button-2::before {
 	content: "";
 	background: linear-gradient(45deg,
-	hwb(236 2% 5%),
+	hwb(204 9% 12%),
 	#628da1,
-	#e0e063,
 	#6ca59d,
 	#12a0a5,
-	hwb(204 9% 12%),
-	hwb(236 2% 5%)
+	hwb(204 9% 12%)
 	);
 	position: absolute;
 	top: -2px;
@@ -636,13 +634,11 @@ a {
 	content: "";
     background: linear-gradient(
 	45deg,
-	hwb(236 2% 5%),
+	hwb(204 9% 12%),
 	#628da1,
-	#e0e063,
 	#6ca59d,
 	#12a0a5,
-	hwb(204 9% 12%),
-	hwb(236 2% 5%)
+	hwb(204 9% 12%)
 );
 	position: absolute;
 	top: -2px;

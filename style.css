@@ -250,7 +250,7 @@ a {
 form {
 	width: 52rem;
 	height: 36rem;
-	background-color: rgb(78 217 217 / 48%);
+	background-color: rgb(131 209 209 / 48%);
 	box-shadow: 3px 3px 5px 5px rgba(128, 128, 128, 0.822);
 	display: flex;
 	flex-direction: column;
@@ -692,7 +692,7 @@ a {
 form {
 	width: 20rem;
 	height: 30rem;
-	background-color: rgb(78 217 217 / 48%);
+	background-color: rgb(131 209 209 / 48%);
 	display: flex;
 	flex-direction: column;
 }

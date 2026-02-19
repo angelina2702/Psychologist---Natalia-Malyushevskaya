@@ -266,12 +266,12 @@ form {
 	width: 47rem;
 	height: 3rem;
 	display: block;
-	background-color: #efc991c2;
+	background-color: white;
 }
 .submit1 {
 	width: 10rem;
 	height: 2rem;
-	background-color: #efc991c2;
+	background-color: white;
 	cursor: pointer;
 	border: 2px solid rgb(78, 74, 74);
 	border-radius: 10px;
@@ -281,7 +281,7 @@ form {
 	font-size: 20px;
 }
 .submit1:hover {
-	background-color: #efc991d5;
+	background-color: rgb(190, 185, 185);
 	color: rgba(0, 0, 0, 0.747);
 }
 .f {
@@ -290,7 +290,7 @@ form {
 .submit {
 	width: 47rem;
 	height: 6rem;
-	background-color: #efc991c2;
+	background-color: white;
 	border: 0px;
 	outline: none;
 }
@@ -318,7 +318,7 @@ input[type="type"] {
 #format {
 	width: 200px;
 	padding: 10px 15px;
-	background-color: #efc991c2;
+	background-color: white;
 	border-radius: 5px;
 	box-sizing: border-box;
 	outline: none;
@@ -707,12 +707,12 @@ form {
 	height: 1rem;
 	padding-left: 5px;
 	display: block;
-	background-color: #efc991c2;
+	background-color: white;
 }
 .submit1 {
 	width: 180px;
 	height: 35px;
-	background-color: #efc991c2;
+	background-color: white;
 	cursor: pointer;
 	border: 2px solid rgb(78, 74, 74);
 	border-radius: 10px;
@@ -722,14 +722,14 @@ form {
     font-size: 20px;
 }
 .submit1:hover {
-	background-color: #efc991d5;
+	background-color: rgb(190, 185, 185);
     color: rgba(0, 0, 0, 0.747);
 }
 .submit {
 	width: 15rem;
 	height: 5rem;
 	font-size: 1rem;
-	background-color: #efc991c2;
+	background-color: white;
 	border: 0px;
 	outline: none;
 	border-radius: 5px;
@@ -760,7 +760,7 @@ input[type="type"] {
 #format {
 	width: 200px;
 	padding: 10px 15px;
-	background-color:#efc991c2;
+	background-color: white;
 	border-radius: 5px;
 	box-sizing: border-box;
 	outline: none;

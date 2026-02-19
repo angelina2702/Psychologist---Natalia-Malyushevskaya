@@ -640,11 +640,11 @@ a {
 	content: "";
     background: linear-gradient(
 	45deg,
-	hwb(204 9% 12%),
+	hwb(204 31% 23%),
 	#628da1,
 	#6ca59d,
 	#12a0a5,
-	hwb(204 9% 12%)
+	hwb(204 31% 23%)
 );
 	position: absolute;
 	top: -2px;

@@ -141,7 +141,7 @@
 .text6 {
 	height: 7rem;
 	width: 100%;
-	background-color: #ebe0d0;
+	background-color: rgb(169 191 216);
 	font-size: 3rem;
 	font-weight: 700;
 	display: flex;
@@ -583,7 +583,7 @@ html{
 .text6 {
 	height: 3rem;
 	width: 100%;
-	background-color: #ebe0d0;
+	background-color: rgb(169 191 216);
 	font-size: 1.2rem;
 	font-weight: 700;
 	display: flex;

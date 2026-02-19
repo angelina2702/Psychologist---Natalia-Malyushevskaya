@@ -250,7 +250,7 @@ a {
 form {
 	width: 52rem;
 	height: 36rem;
-	background-color: rgb(211, 206, 206);
+	background-color: rgb(78 217 217 / 48%);
 	box-shadow: 3px 3px 5px 5px rgba(128, 128, 128, 0.822);
 	display: flex;
 	flex-direction: column;
@@ -266,12 +266,12 @@ form {
 	width: 47rem;
 	height: 3rem;
 	display: block;
-	background-color: #ebe0d0;
+	background-color: #efc991;
 }
 .submit1 {
 	width: 10rem;
 	height: 2rem;
-	background-color: #ebe0d0;
+	background-color: #efc991;
 	cursor: pointer;
 	border: 2px solid rgb(78, 74, 74);
 	border-radius: 10px;
@@ -281,7 +281,7 @@ form {
 	font-size: 20px;
 }
 .submit1:hover {
-	background-color: rgba(186, 187, 187, 0.568);
+	background-color: #efc991d5;
 	color: rgba(0, 0, 0, 0.747);
 }
 .f {
@@ -290,7 +290,7 @@ form {
 .submit {
 	width: 47rem;
 	height: 6rem;
-	background-color: #ebe0d0;
+	background-color: #efc991;
 	border: 0px;
 	outline: none;
 }
@@ -318,7 +318,7 @@ input[type="type"] {
 #format {
 	width: 200px;
 	padding: 10px 15px;
-	background-color: #ebe0d0;
+	background-color: #efc991;
 	border-radius: 5px;
 	box-sizing: border-box;
 	outline: none;
@@ -692,7 +692,7 @@ a {
 form {
 	width: 20rem;
 	height: 30rem;
-	background-color: rgb(211, 206, 206);
+	background-color: rgb(78 217 217 / 48%);
 	display: flex;
 	flex-direction: column;
 }
@@ -707,12 +707,12 @@ form {
 	height: 1rem;
 	padding-left: 5px;
 	display: block;
-	background-color: #ebdac1;
+	background-color: #efc991;
 }
 .submit1 {
 	width: 180px;
 	height: 35px;
-	background-color: #ebdac1;
+	background-color: #efc991;
 	cursor: pointer;
 	border: 2px solid rgb(78, 74, 74);
 	border-radius: 10px;
@@ -722,14 +722,14 @@ form {
     font-size: 20px;
 }
 .submit1:hover {
-	background-color: #ebdac1d8;
+	background-color: #efc991d5;
     color: rgba(0, 0, 0, 0.747);
 }
 .submit {
 	width: 15rem;
 	height: 5rem;
 	font-size: 1rem;
-	background-color: #ebdac1;
+	background-color: #efc991;
 	border: 0px;
 	outline: none;
 	border-radius: 5px;
@@ -760,7 +760,7 @@ input[type="type"] {
 #format {
 	width: 200px;
 	padding: 10px 15px;
-	background-color:#ebdac1;
+	background-color:#efc991;
 	border-radius: 5px;
 	box-sizing: border-box;
 	outline: none;

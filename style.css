@@ -241,7 +241,7 @@ a {
 .SignUp {
 	width: 100%;
 	height: 40rem;
-	background-color: rgb(161 179 211);
+	background-color: rgb(186 187 187 / 34%);
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -683,7 +683,7 @@ a {
 .SignUp {
 	width: 100%;
 	height: 35rem;
-	background-color: rgb(161 179 211);
+	background-color: rgb(186 187 187 / 34%);
 	display: flex;
 	flex-direction: column;
 	justify-content: center;

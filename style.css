@@ -506,7 +506,7 @@ html{
 	flex-direction: row;
 	justify-content: center;
 	align-items: center;
-	gap: 6rem;		
+	gap: 5rem;		
 }
 .colum {
 	width: auto;

@@ -300,7 +300,7 @@ body{
 }
 .offer{
   font-size: 1rem;
-  word-wrap: break-word; 
+ overflow-wrap: break-word;
   line-height: 1.4;
 }
 input[type="checkbox"] {

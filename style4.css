@@ -1,0 +1,151 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body{
+    background-color: #D3D3D3;;
+}
+.img2 {
+	width: 2rem;
+	height: 2rem;
+	padding-top: 10px;
+	cursor: pointer;
+}
+/* Выпадающее меню */
+.dropdown {
+    display: none;
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    background: white;
+    border-radius: 6px;
+    z-index: 10;
+}
+.dropdown.open {
+    display: block;
+}
+.dropdown ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.dropdown li {
+    padding: 12px 20px;
+}
+.dropdown li a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    display: block;
+}
+.dropdown li a:hover {
+   color: #e4b46e;
+}
+h1{
+    text-align: center;
+}
+.name3 {
+	width: 200px;
+	height: 70px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	gap: 15px;
+    padding-left: 30px;
+}
+.picture {
+	width: 3rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.picture:hover {
+	width: 55px;
+}
+.picture1 {
+	width: 3.5rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.picture1:hover {
+	width: 60px;
+}
+p{
+    font-size: 2rem;
+}
+@media (max-width: 900px) {
+* {
+	margin: 0;
+	padding: 0;
+}
+.img2 {
+	width: 2rem;
+	height: 2rem;
+	padding-top: 10px;
+}
+/* Выпадающее меню */
+.dropdown {
+    display: none;
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    background: white;
+    border-radius: 6px;
+    z-index: 10;
+}
+.dropdown.open {
+    display: block;
+}
+.dropdown ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.dropdown li {
+    padding: 12px 20px;
+}
+.dropdown li a {
+    text-decoration: none;
+    font-size: 1rem;
+    display: block;
+}
+.dropdown li a:hover {
+    color: #e4b46e;
+}
+h1{
+    text-align: center;
+}
+.picture {
+	width: 2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.picture:hover {
+	width: 3rem;
+}
+.picture1 {
+	width: 2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.picture1:hover {
+	width: 3rem;
+}
+.name3 {
+	width: 200px;
+	height: 70px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+    gap: 15px;
+    padding-left: 20px;
+}
+}

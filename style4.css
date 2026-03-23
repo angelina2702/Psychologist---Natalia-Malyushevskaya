@@ -42,6 +42,8 @@ body{
 }
 h1{
     text-align: center;
+	padding-bottom: 1rem;
+	padding-top: 1rem;
 }
 .name3 {
 	width: 200px;
@@ -147,5 +149,8 @@ h1{
 	flex-direction: row;
     gap: 15px;
     padding-left: 20px;
+}
+p{
+    font-size: 1.5rem;
 }
 }
